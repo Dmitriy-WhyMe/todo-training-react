@@ -1,6 +1,6 @@
 ### todo-training-react
 
-[Application link](https://blog-training-react.vercel.app/login)
+[Application link](https://todo-training-react.vercel.app)
 ____________________________________________
 
 ### What was involved in developing the app:
